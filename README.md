@@ -7,7 +7,7 @@
 ## Mentee Info
 
 - **Mentee assignment from IBM Advance AI @ Infinite Learning**
-- **completion of Text Sentiment Analysis using Caikit and Hugging Face**
+- **completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai**
   
 ---
 
